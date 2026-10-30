@@ -1,0 +1,23 @@
+# build output and compiled programs
+build/
+rr
+sjf
+sjc
+fcfs
+mlfq
+
+# demo runs from run_all.sh
+demo_results/
+
+# submission bundle and assignment handout
+PA2_files/
+PA2_files.zip
+PA2.pdf
+
+# superseded quick-test script and its output
+experiments.py
+results/results.csv
+results/tables.md
+results/quantum_sweep.png
+
+.DS_Store
